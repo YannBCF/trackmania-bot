@@ -1,1 +1,2 @@
-console.log('init');
+import 'dotenv/config';
+import './index.js';
