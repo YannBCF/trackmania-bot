@@ -1,0 +1,23 @@
+{
+    "include": ["src"],
+    "compileOnSave": false,
+    "compilerOptions": {
+        "outDir": "dist",
+        "strict": true,
+        "noEmit": false,
+        "module": "ESNext",
+        "target": "ESNext",
+        "moduleResolution": "Node",
+        "sourceMap": false,
+        "allowSyntheticDefaultImports": true,
+        "resolveJsonModule": true,
+        "noFallthroughCasesInSwitch": true,
+        "noImplicitReturns": true,
+        "noUncheckedIndexedAccess": true,
+        "noUnusedLocals": true,
+        "noUnusedParameters": true,
+        "experimentalDecorators": true,
+        "baseUrl": ".",
+        "paths": {}
+    }
+}
